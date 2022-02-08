@@ -1,1 +1,5 @@
-<h1 align="center">🧬 Proyecto del curso de <b>Complejidad Algorítmica con JavaScript</b> 💛</h1>
+<h1>🧬Proyecto del curso de <b>Complejidad Algorítmica con JavaScript</b> 💛</h1>
+<h3><b>Big O Notation</b></h3>
+Big O notation nos permite dar una nomenclatura o simbología a la complejidad de los algoritmos. Pongamos como ejemplo un algoritmo de búsqueda, del cual queremos saber su velocidad. Es necesario tener en cuenta que no podemos hablar de tiempo, ya que eso depende del hardware en el que se ejecute: en una MacBook, el mismo algoritmo funcionará más rápido que en un smartphone de gama baja.
+Otro factor a tener en mente es que la mayoría de los algoritmos cambian su rendimiento dependiendo la cantidad de datos que va a procesar. Es decir, algunos algoritmos de búsqueda lo hacen bien cuando el tamaño del input es pequeño, pero pierden efectividad si incrementa y viceversa. Tenemos que considerar el tamaño de los datos, así como el análisis de su posible crecimiento o el peor escenario.
+Big O notation es utilizado en ciencias computacionales para describir el rendimiento complejidad de un algoritmo. Generalmente describe el peor escenario, es decir, el máximo tiempo en la mayor cantidad de repeticiones que el algoritmo tiene que ejecutar.
